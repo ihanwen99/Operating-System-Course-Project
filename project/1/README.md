@@ -1,5 +1,7 @@
 # EI338 Project1
 
+My website is also available https://starky99.com/ei338-project1/ 
+
 ## Project Environment
 
 I use Ubuntu 16.04 in VMware.
