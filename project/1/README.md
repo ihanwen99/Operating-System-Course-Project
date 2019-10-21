@@ -94,7 +94,7 @@ Actually, this part of code is easy, and directly from the demo code.
 
 ### Result Picture
 
-![7ef1dd6a2ed90ceb87f469673c7d554](Project1/7ef1dd6a2ed90ceb87f469673c7d554.png)
+![7ef1dd6a2ed90ceb87f469673c7d554](README/7ef1dd6a2ed90ceb87f469673c7d554.png)
 
 ```shell
 starky99@ubuntu:~/workspace/hw1/2$ make
@@ -124,7 +124,7 @@ starky99@ubuntu:~/workspace/hw1/2$ sudo rmmod jiffies
 starky99@ubuntu:~/workspace/hw1/2$ dmesg
 ```
 
-![9966c465ba09eeb9cd8d0647dccd624](Project1/9966c465ba09eeb9cd8d0647dccd624.png)
+![9966c465ba09eeb9cd8d0647dccd624](README/9966c465ba09eeb9cd8d0647dccd624.png)
 
 ---
 
@@ -205,9 +205,9 @@ What is a little bit difficult is that we need to learn how to formatted output,
 
 ### Result Picture
 
-![5252ef844a68cb36bc25a949e6a7302](Project1/5252ef844a68cb36bc25a949e6a7302.png)
+![5252ef844a68cb36bc25a949e6a7302](README/5252ef844a68cb36bc25a949e6a7302.png)
 
-![0c3ae5c422d757562214cacf4b6dfab](Project1/0c3ae5c422d757562214cacf4b6dfab.png)
+![0c3ae5c422d757562214cacf4b6dfab](README/0c3ae5c422d757562214cacf4b6dfab.png)
 
 In the command line, we can see the second has been calculated and shown on the screen.
 
