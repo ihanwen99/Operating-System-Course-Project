@@ -1,4 +1,5 @@
-# EI338
- SJTU-2019FALL-Project
+# Operating-System-Course-Project
 
-I will update our project.
+SJTU-2019FALL-EI338-Course Project
+
+Operating System Concepts, 10th Edition

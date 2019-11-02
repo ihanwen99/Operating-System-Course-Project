@@ -1,4 +1,4 @@
-# EI338 Project1
+# Project1  Introduction to Linux Kernel Modules
 
 My website is also available https://starky99.com/ei338-project1/ 
 
