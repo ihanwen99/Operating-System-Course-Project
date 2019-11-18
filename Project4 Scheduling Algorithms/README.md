@@ -1,7 +1,5 @@
 # Scheduling Algorithms
 
-517030910294 刘瀚文
-
 ## Question
 
 > This project involves implementing several different process scheduling algorithms. The scheduler will be assigned a predefined set of tasks and will schedule the tasks based on the selected scheduling algorithm. Each task is assigned a priority and CPU burst. The following scheduling algorithms will be implemented:
@@ -168,21 +166,21 @@ void schedule() {
 
 ### First Come First Service(FCFS)
 
-![975d7cabad9d65812c6a22847a4d766](project4_)
+![975d7cabad9d65812c6a22847a4d766](README/975d7cabad9d65812c6a22847a4d766.png)
 
 ### Shortest Job First(sjf)
 
-![150c1cc1e58a886341c5d59a561dad6]( https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project4_sjf.png )
+![150c1cc1e58a886341c5d59a561dad6](README/150c1cc1e58a886341c5d59a561dad6.png)
 
 ### Priority
 
-![66f8896ff66749982f769d80c9a9e07]( https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project4_priority.png )
+![66f8896ff66749982f769d80c9a9e07](README/66f8896ff66749982f769d80c9a9e07.png)
 
 ### rr
 
-![fdbfa82d7ae8a01c99a0af1b1ce0d40]( https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project4_rr.png )
+![fdbfa82d7ae8a01c99a0af1b1ce0d40](README/fdbfa82d7ae8a01c99a0af1b1ce0d40.png)
 
 ### priority_rr
 
-![98fd294cc13d183d7d11b380b65e0a0]( https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project4_priority_rr.png )
+![98fd294cc13d183d7d11b380b65e0a0](README/98fd294cc13d183d7d11b380b65e0a0.png)
 

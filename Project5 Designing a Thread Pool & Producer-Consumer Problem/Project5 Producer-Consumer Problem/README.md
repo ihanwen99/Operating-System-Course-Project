@@ -1,7 +1,5 @@
 # Project5 Producer-Consumer Problem
 
-517030910294 刘瀚文
-
 ## Question
 
 > In this project, you will design a programming solution to the bounded-buffer problem using the producer and consumer processes shown in Figures 5.9 and 5.10. The solution presented in ection 7.1.1 uses three semaphores: empty and full, which count the number of empty and full slots in the buffer, and mutex, which is a binary (or mutualexclusion) semaphore that protects the actual insertion or removal of items in the buffer. For this project, you will use standard counting semaphores for empty and full and a mutex lock, rather than a binary semaphore, to represent mutex. The producer and consumer—running as separate threads —will move items to and from a buffer that is synchronized with the empty, full, and mutex structures. You can solve this problem using either Pthreads or the Windows API.
@@ -208,7 +206,4 @@ clean:
 
 程序需要在命令行中调用时输入睡眠时间、生产者、消费者的数目，运行结果如下：
 
-![result]( https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project5.png )
-
-
-
+![6054a127d71f9957d748e91468be2c7](README/6054a127d71f9957d748e91468be2c7.png)

@@ -1,6 +1,6 @@
 # Project5 Designing a Thread Pool
 
-## 517030910294 刘瀚文
+## Question
 
 > When thread pools are used, a task is submitted to the pool and executed by a thread from the pool. Work is submitted to the pool using a queue, and an available thread removes work from the queue. If there are no available threads, the work remains queued until one becomes available. If there is no work, threads await notification until a task becomes available. This project involves creating and managing a thread pool, and it may be completed using either Pthreds and POSIX synchronization or Java. Below we provide the details relevant to each specific technology. 
 
@@ -169,5 +169,5 @@ int main(void) {
 
 ## 结果展示
 
-![result](https://s3.ap-east-1.amazonaws.com/stark99.com/blog-image/project5_thread_pool.png)
+![350927242bfd3177e7688d9899bcc74](README/350927242bfd3177e7688d9899bcc74.png)
 
